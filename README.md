@@ -1,0 +1,3 @@
+# MycatDistributedDatabase
+Mycat分布式数据库中间件研究
+技术交流QQ群：646732312
